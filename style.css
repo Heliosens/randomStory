@@ -6,6 +6,7 @@
 
 html {
     font-family: "Franklin Gothic Medium", sans-serif;
+    text-align: center;
 }
 
 body {
@@ -19,5 +20,17 @@ main {
 }
 
 main div {
-    height: 50vh;
+    background-image: url("wood02.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 80%;
+    margin: auto;
+    height: 80vh;
+    overflow: auto;
+}
+
+span{
+    background-color: #ffffff80;
+    font-size: 1.3rem;
 }

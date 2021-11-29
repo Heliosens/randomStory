@@ -14,6 +14,8 @@ récuperer :
  - le bouton
  - l'input
  
+créer les tableaux
+ 
 ajouter input au tableau name
 
 fonction : choisir une entrée au hasard dans un tableau

@@ -16,8 +16,6 @@ récuperer :
  
 créer les tableaux
  
-ajouter input au tableau name
-
 fonction : choisir une entrée au hasard dans un tableau
 
 si user entre un nom => utiliser le nom et pas le random

@@ -20,6 +20,7 @@ main {
 }
 
 main div {
+    background-color: lightslategray;
     background-image: url("wood02.jpg");
     background-size: contain;
     background-repeat: no-repeat;
